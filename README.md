@@ -18,7 +18,7 @@ This project is a single-route executive operations dashboard for FastForward Lo
 ## Data Behavior
 
 - Source data lives in `src/data/metrics.json`
-- The dataset contains all months for 2025
+- The dataset contains all months for 2026
 - The UI currently treats October through December as pending in charts and YTD calculations
 
 ## Stack
