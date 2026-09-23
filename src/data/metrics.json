@@ -1,0 +1,182 @@
+[
+  {
+    "month": "January",
+    "monthShort": "Jan",
+    "date": "2025-01-01",
+    "shipment_volume": 1240,
+    "on_time_delivery_rate": 87.3,
+    "regional_performance": {
+      "Northeast": 89.2,
+      "Southeast": 85.1,
+      "Midwest": 88.5,
+      "Southwest": 83.9,
+      "West": 87.8
+    },
+    "open_exceptions": 58
+  },
+  {
+    "month": "February",
+    "monthShort": "Feb",
+    "date": "2025-02-01",
+    "shipment_volume": 1310,
+    "on_time_delivery_rate": 88.1,
+    "regional_performance": {
+      "Northeast": 90.1,
+      "Southeast": 84.2,
+      "Midwest": 89.3,
+      "Southwest": 84.8,
+      "West": 88.5
+    },
+    "open_exceptions": 52
+  },
+  {
+    "month": "March",
+    "monthShort": "Mar",
+    "date": "2025-03-01",
+    "shipment_volume": 1580,
+    "on_time_delivery_rate": 89.5,
+    "regional_performance": {
+      "Northeast": 91.2,
+      "Southeast": 87.3,
+      "Midwest": 90.1,
+      "Southwest": 86.2,
+      "West": 90.2
+    },
+    "open_exceptions": 41
+  },
+  {
+    "month": "April",
+    "monthShort": "Apr",
+    "date": "2025-04-01",
+    "shipment_volume": 1820,
+    "on_time_delivery_rate": 90.2,
+    "regional_performance": {
+      "Northeast": 92.1,
+      "Southeast": 88.5,
+      "Midwest": 91.2,
+      "Southwest": 87.8,
+      "West": 91.3
+    },
+    "open_exceptions": 35
+  },
+  {
+    "month": "May",
+    "monthShort": "May",
+    "date": "2025-05-01",
+    "shipment_volume": 2150,
+    "on_time_delivery_rate": 91.1,
+    "regional_performance": {
+      "Northeast": 93.2,
+      "Southeast": 89.8,
+      "Midwest": 92.1,
+      "Southwest": 88.9,
+      "West": 92.1
+    },
+    "open_exceptions": 28
+  },
+  {
+    "month": "June",
+    "monthShort": "Jun",
+    "date": "2025-06-01",
+    "shipment_volume": 2520,
+    "on_time_delivery_rate": 91.8,
+    "regional_performance": {
+      "Northeast": 93.8,
+      "Southeast": 90.5,
+      "Midwest": 92.8,
+      "Southwest": 89.5,
+      "West": 93.1
+    },
+    "open_exceptions": 22
+  },
+  {
+    "month": "July",
+    "monthShort": "Jul",
+    "date": "2025-07-01",
+    "shipment_volume": 2890,
+    "on_time_delivery_rate": 92.3,
+    "regional_performance": {
+      "Northeast": 94.2,
+      "Southeast": 91.2,
+      "Midwest": 93.5,
+      "Southwest": 90.1,
+      "West": 93.8
+    },
+    "open_exceptions": 18
+  },
+  {
+    "month": "August",
+    "monthShort": "Aug",
+    "date": "2025-08-01",
+    "shipment_volume": 2750,
+    "on_time_delivery_rate": 91.9,
+    "regional_performance": {
+      "Northeast": 93.9,
+      "Southeast": 90.8,
+      "Midwest": 93.2,
+      "Southwest": 89.8,
+      "West": 93.5
+    },
+    "open_exceptions": 24
+  },
+  {
+    "month": "September",
+    "monthShort": "Sep",
+    "date": "2025-09-01",
+    "shipment_volume": 2410,
+    "on_time_delivery_rate": 91.5,
+    "regional_performance": {
+      "Northeast": 93.5,
+      "Southeast": 90.2,
+      "Midwest": 92.8,
+      "Southwest": 89.5,
+      "West": 93.2
+    },
+    "open_exceptions": 31
+  },
+  {
+    "month": "October",
+    "monthShort": "Oct",
+    "date": "2025-10-01",
+    "shipment_volume": 2200,
+    "on_time_delivery_rate": 90.8,
+    "regional_performance": {
+      "Northeast": 92.8,
+      "Southeast": 89.5,
+      "Midwest": 92.1,
+      "Southwest": 88.9,
+      "West": 92.5
+    },
+    "open_exceptions": 38
+  },
+  {
+    "month": "November",
+    "monthShort": "Nov",
+    "date": "2025-11-01",
+    "shipment_volume": 1950,
+    "on_time_delivery_rate": 90.2,
+    "regional_performance": {
+      "Northeast": 92.2,
+      "Southeast": 88.8,
+      "Midwest": 91.5,
+      "Southwest": 88.2,
+      "West": 92.1
+    },
+    "open_exceptions": 45
+  },
+  {
+    "month": "December",
+    "monthShort": "Dec",
+    "date": "2025-12-01",
+    "shipment_volume": 1680,
+    "on_time_delivery_rate": 89.5,
+    "regional_performance": {
+      "Northeast": 91.5,
+      "Southeast": 87.9,
+      "Midwest": 90.8,
+      "Southwest": 87.3,
+      "West": 91.2
+    },
+    "open_exceptions": 52
+  }
+]
